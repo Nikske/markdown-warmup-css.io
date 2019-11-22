@@ -1,0 +1,42 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    padding-top: 0.9%;
+    padding-left: 10%;
+    color: #403e3e;
+    width: 70%;
+    background-image: url("../img/dot-grid.png");
+}
+header {
+    padding-bottom: 3.5%;
+}
+#quote {
+    border-left: #403e3e 6px solid;
+    height: 100%;
+    width: 40%;
+}
+#quote p {
+    padding-left: 2%;
+}
+table, #hobbies{
+    border-left: #403e3e 6px solid;
+}
+td {
+    padding-left: 2%;
+    border-bottom: lightgray 1px solid;
+}
+h2 {
+    padding-top: 2%;
+}
+#hobbies h2,ul {
+    padding-left: 2%;
+}
+.text {
+    width: 68%;
+}
+a {
+    text-decoration: none;
+}
+footer {
+    padding-top: 2.5%;
+    padding-left: 50%;
+}
